@@ -19,11 +19,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CodeWith-AR/ConverterNest/releases/download/v1.0.0/ConverterNest-v1.0.0.apk">
-    <img src="https://img.shields.io/badge/Download-Release%20APK%20(Direct)-FFB300?style=for-the-badge&logo=android&logoColor=black" height="36" alt="Download APK" />
+  <a href="https://github.com/CodeWith-AR/ConverterNest/releases/download/v1.0.0/ConverterNest-arm64-v8a.apk">
+    <img src="https://img.shields.io/badge/Download-Release%20APK%20(63.8%20MB)-FFB300?style=for-the-badge&logo=android&logoColor=black" height="38" alt="Download APK" />
   </a>
   <a href="https://github.com/CodeWith-AR/ConverterNest/releases/tag/v1.0.0">
-    <img src="https://img.shields.io/badge/GitHub-Releases%20(v1.0.0)-238636?style=for-the-badge&logo=github&logoColor=white" height="36" alt="GitHub Release" />
+    <img src="https://img.shields.io/badge/GitHub-Releases%20(v1.0.0)-238636?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub Release" />
   </a>
 </p>
 
@@ -31,16 +31,24 @@
 
 ## 📲 Download & Install
 
-Get Converter Nest directly on your Android phone without waiting for the Play Store:
+Install Converter Nest directly on your Android phone:
 
 <p align="center">
+  <a href="https://github.com/CodeWith-AR/ConverterNest/releases/download/v1.0.0/ConverterNest-arm64-v8a.apk">
+    <img src="https://img.shields.io/badge/Download_APK-arm64--v8a_(63.8_MB)-FFB300?style=for-the-badge&logo=android&logoColor=black" height="42" alt="Download arm64 APK" />
+  </a>
   <a href="https://github.com/CodeWith-AR/ConverterNest/releases/download/v1.0.0/ConverterNest-v1.0.0.apk">
-    <img src="https://img.shields.io/badge/Download_APK-ConverterNest--v1.0.0.apk-FFB300?style=for-the-badge&logo=android&logoColor=black" height="42" alt="Download Release APK" />
+    <img src="https://img.shields.io/badge/Download_APK-Universal_(226_MB)-555555?style=for-the-badge&logo=android&logoColor=white" height="42" alt="Download Universal APK" />
   </a>
 </p>
 
+| Build Variant | File Size | Recommended For |
+| :--- | :--- | :--- |
+| 🚀 **ARM64-v8a (Recommended)** | **63.8 MB** | **98%+ of all modern Android smartphones** (Samsung, Xiaomi, Pixel, OnePlus, Vivo, Oppo) |
+| 🌐 **Universal Build** | **226.2 MB** | All architectures bundled (x86_64, armeabi-v7a, arm64-v8a) |
+
 ### 📱 Easy Installation Steps:
-1. **Tap the Download button** above on your Android phone to download `ConverterNest-v1.0.0.apk`.
+1. **Tap the Download button** above on your Android phone (choose the **63.8 MB** version).
 2. **Open the downloaded APK** from your browser notifications or your phone's Downloads folder.
 3. If Android prompts you (*"For security, your phone is not allowed to install unknown apps from this source"*), tap **Settings** and toggle **Allow from this source**.
 4. Tap **Install** and open **Converter Nest**! 🚀
