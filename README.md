@@ -41,6 +41,25 @@ Your files never leave your phone. No internet connection is ever required, and 
 
 ---
 
+## 📱 App Screenshots
+
+### 🚀 Onboarding & Experience
+| Splash Screen | Onboarding: Convert Anything | Onboarding: Free Forever | Home Dashboard |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/splash.jpeg" width="220" alt="Splash Screen" /> | <img src="screenshots/onboarding_1.jpeg" width="220" alt="Onboarding 1" /> | <img src="screenshots/onboarding_3.jpeg" width="220" alt="Onboarding 3" /> | <img src="screenshots/home.jpeg" width="220" alt="Home Screen" /> |
+
+### 🛠️ Conversion Engines
+| Image Converter | Audio Converter | Video Converter | Archive Manager |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/image_converter.jpeg" width="220" alt="Image Converter" /> | <img src="screenshots/audio_converter.jpeg" width="220" alt="Audio Converter" /> | <img src="screenshots/video_converter.jpeg" width="220" alt="Video Converter" /> | <img src="screenshots/archive_manager.jpeg" width="220" alt="Archive Manager" /> |
+
+### 📑 Document Tools, History & Settings
+| Text & Data Converter | PDF Tools | Conversion Result | History & Auditing | Settings & Info |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="screenshots/text_data_converter.jpeg" width="180" alt="Text & Data" /> | <img src="screenshots/pdf_tools.jpeg" width="180" alt="PDF Tools" /> | <img src="screenshots/conversion_result.jpeg" width="180" alt="Conversion Result" /> | <img src="screenshots/history.jpeg" width="180" alt="History Screen" /> | <img src="screenshots/settings.jpeg" width="180" alt="Settings Screen" /> |
+
+---
+
 ## 🛠️ 6 Core Conversion Suites
 
 ### 1. 🖼️ Image Studio
